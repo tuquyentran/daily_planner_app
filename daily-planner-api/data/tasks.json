@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "date": "Monday, 23/09/2024",
+    "title": "Làm bài kiểm tra chất lượng",
+    "location": "online",
+    "host": "Thanh Ngân",
+    "notes": "Chuẩn bị kỹ trước khi làm bài",
+    "status": "Completed",
+    "startTime": "2:11 PM",
+    "endTime": "2:11 PM"
+  },
+  {
+    "id": 2,
+    "date": "Tuesday, 24/09/2024",
+    "title": "Họp nhóm dự án",
+    "location": "Phòng họp",
+    "host": "Hữu Nghĩa",
+    "notes": "Chuẩn bị báo cáo cho cuộc họp",
+    "status": "Completed",
+    "startTime": "2:11 PM",
+    "endTime": "2:11 PM"
+  },
+  {
+    "id": 3,
+    "date": "Monday, 30/09/2024",
+    "title": "Học Flutter",
+    "startTime": "2:11 PM",
+    "endTime": "2:11 PM",
+    "location": "Nhà",
+    "host": "Thanh Ngân",
+    "notes": "Học về lập trình mobile với Flutter",
+    "status": "InProgress"
+  },
+  {
+    "id": 4,
+    "date": "Tuesday, 01/10/2024",
+    "title": "Gặp khách hàng",
+    "startTime": "2:11 PM",
+    "endTime": "2:11 PM",
+    "location": "Văn phòng",
+    "host": "Hữu Nghĩa",
+    "notes": "Báo cáo kết quả dự án",
+    "status": "New"
+  }
+]
